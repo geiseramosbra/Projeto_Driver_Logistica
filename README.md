@@ -1,6 +1,6 @@
-### PROJETO DRIVER: LOGISTICS ANALYSIS AND SUPPLY CHAIN PIPELINE
+# PROJETO DRIVER: LOGISTICS ANALYSIS AND SUPPLY CHAIN PIPELINE
 ## ENGLISH VERSION
-# PROJECT OVERVIEW 
+### PROJECT OVERVIEW 
 SITUATION
 The logistics department required a robust way to monitor delivery performance and identify risks across different markets, specifically LATAM and USCA. The raw data contained over 180,000 records with inconsistent naming and unnecessary columns for the final business analysis.
 
@@ -18,13 +18,13 @@ Successfully processed 77,393 lines of logistics data after cleaning.
 Automated the generation of a refined CSV, reducing manual data preparation time.
 Built a visual map and risk analysis charts that identify delivery gaps by city and category.
 
-# TECH STACK
+TECH STACK
 Python (Pandas)
 Power BI
 Git/GitHub
 
 ## VERSÃO EM PORTUGUÊS
-# RESUMO DO PROJETO 
+### RESUMO DO PROJETO 
 SITUAÇÃO
 O departamento de logística precisava de uma forma robusta para monitorar o desempenho de entrega e identificar riscos em diferentes mercados (LATAM e USCA). Os dados brutos continham mais de 180.000 registros com nomes inconsistentes e colunas desnecessárias para a análise de negócio final.
 
@@ -42,7 +42,7 @@ Processamento bem-sucedido de 77.393 linhas de dados logísticos após a limpeza
 Automação da geração de um CSV refinado, reduzindo o tempo de preparação manual de dados.
 Construção de um mapa visual e gráficos de análise de risco que identificam gargalos de entrega por cidade e categoria.
 
-# TECNOLOGIAS UTILIZADAS
+TECNOLOGIAS UTILIZADAS
 Python (Pandas)
 Power BI
 Git/G
