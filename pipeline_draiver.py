@@ -1,11 +1,11 @@
 import pandas as pd
 
 # PASSO 1: Carregar o arquivo bruto
-# Certifique-se de que o arquivo está na pasta 'data' com este nome exato
+
 print("⏳ Carregando dados... Isso pode levar alguns segundos.")
 df = pd.read_csv('data/DataCoSupplyChainDataset.csv', encoding='ISO-8859-1')
 
-# PASSO 2: Selecionar apenas o que importa (Foco da Draiver)
+# PASSO 2: Selecionar apenas o que importa 
 mercados_foco = ['LATAM', 'USCA']
 df_filtrado = df[df['Market'].isin(mercados_foco)].copy()
 
